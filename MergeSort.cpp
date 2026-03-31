@@ -20,4 +20,8 @@ while (true)
             cout << "\nMaksimum panjang array yang dapat dimasukkan adalah 20:" << endl;
         }
     }
+    cout << endl;
+    cout << "================================" << endl;
+    cout << "=====Masukkan Element Array=====" << endl;
+    cout << "================================" << endl;
 }
